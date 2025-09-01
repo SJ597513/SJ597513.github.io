@@ -1,14 +1,21 @@
 ---
 ---
 
-@string{aps = {American Physical Society,}}
-
-@book{einstein1920relativity,
-  title={Relativity: the Special and General Theory},
-  author={Einstein, Albert},
-  year={1920},
-  publisher={Methuen & Co Ltd},
-  html={relativity.html}
+@inproceedings{echeveste2025emg,
+  abbr={Conference},
+  bibtex_show={true},
+  title={EMG Signal Enhancement via Multi-Objective Optimization of Hankel-Based Bayesian Learning},
+  author={Echeveste*, Salvador and Yang*, Chunming and Bhounsule, Pranav A.},
+  abstract={Electromyography (EMG) signals are essential for neuromuscular diagnosis and assistive device control but suffer from noise contamination that obscures clinically important transient features. We present an interpretable, automated framework that enhances EMG quality by integrating low rank Hankel matrix reconstruction with Bayesian regularized Koopman regression and optimized smoothing, all tuned through multi objective Bayesian optimization (MOBO). Raw EMG traces are embedded in a time delay Hankel matrix and decomposed via truncated singular value decomposition (SVD) to isolate underlying dynamics. A ridge regularized Bayesian regression learns a predictive transition operator, whose forecasts are optimally combined with the reconstructed signal. A windowed Makima median smoother provides final refinement. Key hyperparameters including embedding dimension, SVD rank, regularization variances, and fusion weight are selected to simultaneously maximize signal to noise ratio (SNR) and structural fidelity using Gaussian process surrogates and an expected hypervolume improvement (EHVI) criterion. When evaluated on walking and squatting EMG data from ten healthy adults across four muscle groups, our method achieves a 108.7% increase in a squared geometric mean (SGM) metric (p = 0.0282) and an 11.4% gain in normalized joint fidelity (p = 0.0011), while decoupling noise reduction from signal preservation (Pearson r ≈ 0). These results establish a powerful, generalizable approach for real time clinical and rehabilitation applications.},
+  booktitle={Proceedings of the Conference Modeling, Estimation, and Control Conference},
+  year={2025},
+  month={},
+  pages={},
+  publisher={},
+  pdf={echeveste2025emg.pdf},
+  selected={true},
+  annotation={* Equal contribution},
+  additional_info={. Department of Mechanical and Industrial Engineering, University of Illinois Chicago}
 }
 
 @book{einstein1956investigations,
