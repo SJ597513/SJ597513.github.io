@@ -2,7 +2,7 @@
 layout: about
 title: home
 permalink: /
-subtitle: PhD graduate | Machine Learning and Biomechatronics | University of Illinois at Chicago
+
 
 profile:
   align: right
