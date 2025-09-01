@@ -25,4 +25,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I’m Salvador Echeveste, a recent PhD in Mechanical Engineering (UIC) whose research develops EMG-based human-in-the-loop Bayesian optimization and impedance-based control to personalize hip-exoskeleton assistance. My work couples machine-learning initialization and heteroscedastic Bayesian models to reduce muscle activity and perceived exertion while delivering clinically feasible tuning times. I’m actively open to postdoctoral positions and industry roles in ML engineering or data science that translate research into robust, user-centric systems.
+Recent PhD in Mechanical Engineering (UIC) whose research develops EMG-based human-in-the-loop Bayesian optimization and impedance-based control to personalize hip-exoskeleton assistance. My work couples machine-learning initialization and heteroscedastic Bayesian models to reduce muscle activity and perceived exertion while delivering clinically feasible tuning times. I’m actively open to postdoctoral positions and industry roles in ML engineering or data science that translate research into robust, user-centric systems.
