@@ -341,6 +341,7 @@ external_links:
   rel: external nofollow noopener
   target: _blank
   exclude:
+    -_pages/repositories.md
 
 # -----------------------------------------------------------------------------
 # Responsive WebP Images
