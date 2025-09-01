@@ -2,7 +2,7 @@
 layout: about
 title: home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD graduate | Machine Learning and Biomechatronics | University of Illinois at Chicago
 
 profile:
   align: right
